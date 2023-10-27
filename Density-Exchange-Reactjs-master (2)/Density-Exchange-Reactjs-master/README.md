@@ -44,4 +44,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ---
 
-Enjoy exploring the captivating animations and the creative design of Density Exchange Reactjs! For any questions or inquiries, please contact [namrataawasthi077@gmail.com](mailto:your-email@example.com).
+Enjoy exploring the captivating animations and the creative design of Density Exchange! For any questions or inquiries, please contact [anmolmaurya866@gmail.com](mailto:your-email@example.com).
